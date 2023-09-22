@@ -20,6 +20,7 @@ _ANIMALS = [
     "chipmunk",
     "dormouse",
     "pika mouse",
+    "hedgehog",
 ]
 
 _PREDICATES = [
